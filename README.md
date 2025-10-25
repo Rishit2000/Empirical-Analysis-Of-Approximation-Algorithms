@@ -1,6 +1,6 @@
 # Empirical-Analysis-Of-Approximation-Algorithms
 
-This repository contains the soruce code and findings for my Design Project (BITS Pilani – CS F376).
+This repository contains the code and findings for my Design Project (BITS Pilani – CS F376).
 
 ## Overview
 
